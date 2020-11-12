@@ -73,6 +73,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Under construction ... TBC
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a professor of psychology at Victoria University in Wellington, New Zealand. I am interested in the evolutoinary and longitudional study of religion, cooperation, and wellbeing. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
