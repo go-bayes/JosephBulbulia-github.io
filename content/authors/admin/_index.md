@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a professor of psychology at Victoria University in Wellington, New Zealand. I am interested in the evolutoinary and longitudional study of religion, cooperation, and wellbeing. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
+I am a professor of psychology at Victoria University in Wellington, New Zealand. I am interested in the evolutionary and longitudinal study of religion, cooperation, and wellbeing. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
