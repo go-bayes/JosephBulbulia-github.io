@@ -20,7 +20,7 @@ bio: My research interests include evolution, religion, cooperation, wellbeing, 
 interests:
 - Bayesian Inference
 - Cultural Evolution
-- Ritual
+- Religion
 
 # Education to show in About widget
 education:
