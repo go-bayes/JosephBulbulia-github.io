@@ -43,7 +43,7 @@ date_format = "Jan 2006"
    """
   
 [[experience]]  
- title = "Lecturer, Senior Lecturer, Reader, Professor"
+ title = "Professor"
   company = "Victoria University"
   company_url = ""
   location = "Wellington New Zealand"
