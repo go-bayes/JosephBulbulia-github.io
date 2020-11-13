@@ -31,12 +31,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "TBA"
   organization_url = "https://www.edx.org"
-  title = "TBAs"
+  title = "TBA"
   url = ""
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "."
   
 [[item]]
   organization = "TBA"
