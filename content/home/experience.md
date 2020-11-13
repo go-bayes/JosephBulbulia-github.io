@@ -50,5 +50,5 @@ date_format = "Jan 2006"
   date_start = "2000-08-22"
   date_end = "2018-01-30"
   description = """Faculty of Arts, School of Humanities."""  
-
+  """
 +++
