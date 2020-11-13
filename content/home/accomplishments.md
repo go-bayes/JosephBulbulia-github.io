@@ -19,15 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "TBA"
-  organization_url = ""
-  title = "TBA"
+  organization = "Max Planck Institute for the Science of Human History"
+  organization_url = "https://www.shh.mpg.de/en"
+  title = "Appointment: Research Associate"
+  url = ""
+  certificate_url = "https://www.shh.mpg.de/252138/dlcepeople"
+  date_start = "2019-01"
+  date_end = ""
+  description = "Cultural Evolution Group"
+
+[[item]]
+  organization = "University of Auckland, Faculty of Arts"
+  organization_url = "https://www.auckland.ac.nz/en/arts.html"
+  title = "Appointment: Maclaurin Goodfellow Chair"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2018-01"
   date_end = ""
-  description = ""
-
-
+  description = "Endowed Chair"
+  
+[[item]]
+  organization = "Victoria University"
+  organization_url = "https://www.auckland.ac.nz/en/arts.html"
+  title = "Victoria University Research Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01"
+  date_end = ""
+  description = "Presented at New Zealand Parlaiment"
 
 +++
