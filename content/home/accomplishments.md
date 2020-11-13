@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Victoria"
+  organization = "TBA"
   organization_url = ""
   title = "TBA"
   url = ""
@@ -28,24 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "TBA"
-  organization_url = ""
-  title = "TBA"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "."
-  
-[[item]]
-  organization = "TBA"
-  organization_url = ""
-  title = "TBA"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+
 
 +++
