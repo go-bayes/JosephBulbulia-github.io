@@ -1,11 +1,11 @@
----
-title: "Publications"
-view: 4
-header:
-  caption: ''
-  image: ''
-output: pdf_document
----
+% ---
+% title: "Publications"
+% view: 4
+% header:
+%   caption: ''
+%   image: ''
+% output: pdf_document
+% ---
 
 
 
@@ -64,21 +64,6 @@ output: pdf_document
 \usepackage{geometry} 
 \geometry{a4paper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
 \setlength\parindent{0in}
-
-% FONTS
-%\usepackage{xunicode}
-%\usepackage{xltxtra}
-%\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
-%\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{EurekaMonoOT}
-%\setromanfont[Scale=1]{Latin Modern Roman}
-%\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{Avenir Next LT Pro}
-%\setmonofont[Scale=.9]{Nitti} 
-%\setsansfont[Scale=1]{Univers Next Pro} 
-%\newfontfamily{\secfont}{Latin Modern Roman}%{Akzidenz-Grotesk BQ Medium}
-%\newfontfamily{\subsecfont}{Latin Modern Roman}%{Akzidenz-Grotesk BQ Medium}
-% ---- CUSTOM AMPERSAND
-%\newcommand{\&}{{\fontspec[Scale=.9]{Avenir Next LT Pro}\selectfont\itshape\&}}%{Hoefler Text}
-% ---- MARGIN YEARS
 \usepackage{marginnote}
 \newcommand{\years}[1]{\marginnote{\scriptsize #1}}
 \renewcommand*{\raggedleftmarginnote}{}
@@ -110,26 +95,9 @@ output: pdf_document
 \usepackage{mdwlist}
 \usepackage{geometry}
 
-%\usepackage{sectsty} 
-%\usepackage[normalem]{ulem} 
-%\sectionfont{\subsecfont} 
-%\subsectionfont{\subsecfont} 
-%\subsubsectionfont{\subsecfont} 
 
-%\usepackage{titlesec}
-%\definecolor{MSBlue}{rgb}{.204,.353,.541}
-%\definecolor{MSLightBlue}{rgb}{.31,.506,.741}
-%\newfontfamily\subsubsectionfont{Constantia Bold}
-%\titleformat*{\section}{\large\subsubsectionfont}
-%\titleformat*{\subsection}{\subsubsectionfont}
-%\titleformat*{\subsubsection}{\subsubsectionfont}
-%\fontsize{10pt}{12pt}
-% Customize page headers
-%\pagestyle{myheadings}
-%\markright{\name}
 \usepackage{microtype} 
 \usepackage{enumerate}
-%\usepackage{lmodern}
 \usepackage{setspace}
 \onehalfspacing
 
@@ -144,7 +112,14 @@ output: pdf_document
 
 
 \begin{document}
-\begin{thebibliography}{99}
+\subsubsection*{Publications}
+
+Selected science publications in \textcolor{Orange}{orange}
+
+Selected theory publications in \textcolor{Green}{green}
+
+Selected overviews of the scientific research \textcolor{Purple}{purple}
+\begin{thebibliography}{}
 
 
 

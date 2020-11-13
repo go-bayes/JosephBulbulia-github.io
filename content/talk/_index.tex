@@ -1,0 +1,265 @@
+% ---
+% title: Recent & Upcoming Talks
+% 
+% # View.
+% #   1 = List
+% #   2 = Compact
+% #   3 = Card
+% view: 2
+% 
+% # Optional header image (relative to `static/media/` folder).
+% header:
+%   caption: ""
+%   image: ""
+% ---
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[dvipsnames]{xcolor}
+%\bibliographystyle{babplain}
+%\bibliographystyle{unsrt}
+%\usepackage{etaremune}
+%\usepackage{kpfonts}
+\usepackage[T1]{fontenc}
+%\usepackage{setspace} 
+%%\usepackage{color}
+%\usepackage[usenames, dvipsnames]{xcolor}
+
+% USE THIS TO UNDO NUMBERING
+
+%\makeatletter
+%\renewenvironment{thebibliography}[1]
+%     {\section*{\refname}%
+%      \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
+%      \list{}%
+%           {\setlength{\labelwidth}{0pt}%
+%            \setlength{\labelsep}{0pt}%
+%            \setlength{\leftmargin}{\parindent}%
+%            \setlength{\itemindent}{-\parindent}%
+%            \@openbib@code
+%            \usecounter{enumiv}}%
+%      \sloppyhttps://www.overleaf.com/project/5f064805fb993800018c8f25
+%      \clubpenalty4000
+%      \@clubpenalty \clubpenalty
+%      \widowpenalty4000%
+%      \sfcode`\.\@m}
+%     {\def\@noitemerr
+%       {\@latex@warning{Empty `thebibliography' environment}}%
+%      \endlist}
+%\makeatother
+%
+
+
+
+
+
+
+
+\renewcommand*{\refname}{} % no title for bibliography
+
+\usepackage[official]{eurosym}
+%\renewcommand*\sfdefault{uop}
+%\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+%\usepackage[T1]{fontenc}
+
+
+% DOCUMENT LAYOUT
+\usepackage{geometry} 
+\geometry{a4paper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
+\setlength\parindent{0in}
+
+% FONTS
+%\usepackage{xunicode}
+%\usepackage{xltxtra}
+%\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+%\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{EurekaMonoOT}
+%\setromanfont[Scale=1]{Latin Modern Roman}
+%\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{Avenir Next LT Pro}
+%\setmonofont[Scale=.9]{Nitti} 
+%\setsansfont[Scale=1]{Univers Next Pro} 
+%\newfontfamily{\secfont}{Latin Modern Roman}%{Akzidenz-Grotesk BQ Medium}
+%\newfontfamily{\subsecfont}{Latin Modern Roman}%{Akzidenz-Grotesk BQ Medium}
+% ---- CUSTOM AMPERSAND
+%\newcommand{\&}{{\fontspec[Scale=.9]{Avenir Next LT Pro}\selectfont\itshape\&}}%{Hoefler Text}
+% ---- MARGIN YEARS
+\usepackage{marginnote}
+\newcommand{\years}[1]{\marginnote{\scriptsize #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt}
+\reversemarginpar
+
+% HEADINGS
+%\usepackage{sectsty} 
+%\usepackage[normalem]{ulem} 
+%\sectionfont{nitti typewriter} %\mdseries\large\underline} 
+%\subsectionfont{nitti typewriter cameo}         %\rmfamily\mdseries\scshape\normalsize} 
+%\subsubsectionfont{nitti typewriter cameo}  %\bfseries\upshape\normalsize} 
+\usepackage{graphicx}
+% PDF SETUP
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+%\usepackage[xetex, bookmarks, colorlinks, breaklinks, pdftitle={Joseph Bulbulia - vita},pdfauthor={Joseph Bulbulia}]{hyperref}  
+%\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=blue} 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=green,%
+    filecolor=magenta,%
+    linkcolor=red,% 
+    urlcolor=cyan
+}
+%-------------------------------------
+%\setlength{\textwidth}{17cm} \setlength{\oddsidemargin}{-0.5cm}
+%-------------------------------------
+\usepackage{mdwlist}
+\usepackage{geometry}
+
+%\usepackage{sectsty} 
+%\usepackage[normalem]{ulem} 
+%\sectionfont{\subsecfont} 
+%\subsectionfont{\subsecfont} 
+%\subsubsectionfont{\subsecfont} 
+
+%\usepackage{titlesec}
+%\definecolor{MSBlue}{rgb}{.204,.353,.541}
+%\definecolor{MSLightBlue}{rgb}{.31,.506,.741}
+%\newfontfamily\subsubsectionfont{Constantia Bold}
+%\titleformat*{\section}{\large\subsubsectionfont}
+%\titleformat*{\subsection}{\subsubsectionfont}
+%\titleformat*{\subsubsection}{\subsubsectionfont}
+%\fontsize{10pt}{12pt}
+% Customize page headers
+%\pagestyle{myheadings}
+%\markright{\name}
+\usepackage{microtype} 
+\usepackage{enumerate}
+%\usepackage{lmodern}
+\usepackage{setspace}
+\onehalfspacing
+
+\pagestyle{empty}
+
+%\usepackage{sectsty}
+%\sectionfont{\rmfamily\mdseries\Large}
+%\subsectionfont{\rmfamily\mdseries\itshape\large}
+\graphicspath{{images/}{../images/}}
+
+%\usepackage{subfiles} % Best loaded last in the preamble subsections
+
+
+\begin{document}
+
+
+\subsubsection*{Presentations} 
+\subsubsection*{Keynotes \& Invited}
+
+\years{2019$^k$} Attitudes to religion and trade in New Zealand (2009-2018). Religion and Business: Reaping the Diversity Dividend. Auckland University of Technology, Auckland, New Zealand. 12 August 2019. \href{https://www.dropbox.com/s/t0vsqu95nbs32t6/2019.AUG.12.bulbulia.Biz.Rel.pptx?dl=0}{LINK}\\
+\years{2019$^t$} The interplay of religious affiliation and volunteering, evidence from The New Zealand Attitudes and Values Study 2009-2019.  Templeton Annual Meeting. Nassau, Bahamas. 24 June 2019.\\
+\years{2019$^t$} What are the sources of Muslim Acceptance in New Zealand? Maclaurin Chapel, Auckland, New Zealand. May 28 2019. \\
+\years{2019$^k$} Changing Attitudes to Muslims in New Zealand: years 2013-2017. Amnesty International Annual Hui 2019: IMPACT for Human Rights. Wellington, New Zealand. 10 May 2019.\\
+\years{2018$^t$} How Spiritual Are We Really? Engage Conference. Auckland, New Zealand. 21 September 2018.\\
+\years{2018$^k$} Teams $>$ STEM $+$ HASS. Plenary Session. International. Deans of Arts, Social Sciences and Humanities Conference (Australasia). Australian National University, Canberra, Australia. 12 September 2018.\\
+\years{2018$^k$} Is Virtue Worth The Effort? International Humanist Conference. Auckland, New Zealand. 4 August 2018.\\
+\years{2018$^k$} Religion and the evolution of second nature? Erice, Sicily. 12 May 2018.\\
+\years{2017$^k$}Computational Phylogenetic Methods Test Functional Hypotheses About Culture. University of Helsinki. 25 May 2017. \\ 
+\years{2016$^t$} {\bf J.~Bulbulia}, Presidential Address. International Association for the Cognitive Science of Religion. Vancouver, Canada. 24 August 2016.\\
+\years{2012$^t$}{\bf J.~Bulbulia}, \newblock\href{http://conferences.au.dk/biologicalandculturalevolution/conference-programme/}{~Religious Ritual, Identity, and Coordination: Surprising Results From the Field}\newblock Keynote: Aarhus University, \href{http://conferences.au.dk/biologicalandculturalevolution/}{Biological and Cultural Evolution and Their Interactions}. Denmark.~26~June~2012. \\
+\years{2011$^t$}{\bf J.~Bulbulia}, \newblock \href{http://db.tt/8CgWl7MC}{Experimental Anthropology: How Quantitative Field Studies are Revealing New Subtleties in Religious Rituals}
+\newblock (invited talk). Aarhus University, Denmark. 18 October 2011. \href{http://aal.au.dk/antro/conference-2011-researching-religion/programme/}{{\bf Website}}\\
+\years{2009$^k$}I.~Konvalinka, \textbf{J.~Bulbulia}, D. Xygalatas, and U.~Schjoedt, 
+Synchronous arousal memory in a Spanish firewalk.
+\newblock Keynote Address, International Association for the Cognitive Study of Religion: Cognitive Science Society Annual Meeting. Amsterdam, Netherlands. July 2009.\\
+\years{2008$^k$}{\bf J.~Bulbulia}, Bayes theorem and the economics of religious reciprocity.\newblock Keynote Address, European Collaborative Research Foundation. Consciousness in Natural Context. Aarhus University, Denmark. June 2008.\\
+\years{2008$^k$}{\bf J.~Bulbulia}, \href{http://video.google.com/videoplay?docid=4493321247767166938#}{The human nest: Epistemic niche construction and religiosity}.\newblock Keynote Address, Religious Ritual, Cognition and Culture. Aarhus University, Denmark. May 2008.\\
+\years{2006$^k$}{\bf J.~Bulbulia}, Why religious commitment is also moral commitment.\newblock Faculty Keynote. Aarhus University, Denmark. 7 December 2006.
+
+\subsubsection*{Talks}
+\years{2020$t$} A national scale longitudinal analysis of the Social Consequences of Religion in New Zealand: 2009-2017 (Three Studies). Templeton Religion Trust. Nassau, Bahamas. 14 January 2020. \\
+\years{2019$^t$} A national scale longitudinal analysis of mis/perceptions about Religious Faith and Practice in New Zealand: 2009-2017 (Three Studies). University of the 3rd Age (U3A). New Plymouth, New Zealand. 13 November 2019. \href{https://www.dropbox.com/s/xypex3ektzf51cb/Bulbulia.NewPLymoth.NOV.13.2019.pptx?dl=0}{LINK}\\
+\years{2019$t$} Extremism in New Zealand reveals challenges and opportunities for international education partnerships. University of Auckland U21. University of Auckland, Auckland, New Zealand. 25 October 2019. \href{https://www.dropbox.com/s/33q0ths4o9pml9l/v4.bulbulia_Auckland_u21_OCT.25.2019.low.res.pptx?dl=0}{LINK} \\
+\years{2019$t$} The interplay of religious affiliation and volunteering, evidence from the New Zealand Attitudes and Values Study 2009-2019. Templeton Religion Trust advisory meeting on the SCORE initiative. Oxford, UK. October 2019. \href{https://www.dropbox.com/s/zsggoh701jvqqnv/v4.Bulbulia.TRT_Presentation.JUNE_23.2019.pptx?dl=0}{LINK}\\
+\years{2017$t$} Two paradoxes of religious change in New Zealand. \newblock NCLANZ Meeting. Wellington, New Zealand. 19 September 2017.\\
+\years{2017$t$} Punctuated Evolution of Religion, Cultural Evolution Society Conference. Jena, Germany. 14 September 2017.\\
+\years{2017$t$} Religion and the good life in New Zealand, 8th Christian Leaders Congress. Hope Centre, Wellington, New Zealand. 23 March 2017.\\
+\years{2017$t$} Darwin meets Luther: How Evolutionary Religious Studies Explains the Protestant Reformation. \newblock  Empirical Philosophy Workshop. Wellington, New Zealand. 1 June 2017. \\
+\years{2016$^t$} Secularization and Simpson's Paradox. Otago University, Dunedin, New Zealand. October 2016.\\
+\years{2016$^t$} {\bf J. Bulbulia}, Sex, Signaling, \& Religion Today. International Association for the Cognitive Science of Religion. Vancouver, Canada. 24 August 2016.\\
+\years{2016$^t$} {\bf J. Bulbulia}, Evolutionary Theory meets Big Longitudinal Data: Modeling Religion, Tolerance, and Prejudice in a Western Secular Society. International Association for the Cognitive Science of Religion. Vancouver, Canada. 23 August 2016.\\
+\years{2016$^t$} {\bf J. Bulbulia}, Religion Evolves Social Inequality. Victoria University Religious Studies Seminar. Wellington, New Zealand. 24 March 2016.\\
+\years{2016$^t$} {\bf J. Bulbulia}, Religion and the Evolution of Social Inequality. University of Otago, Psychology Department. University of Otago, Dunedin, New Zealand. 22 February 2016. \\
+\years{2015$^t$} {\bf J. Bulbulia}, Longitudinal Study of Religion: recent findings from the New Zealand Attitudes \& Values Study. Queenstown. 8 December 2015.  \\
+\years{2015$^t$} {\bf J. Bulbulia},  Religion and the Evolution of Social Inequality. Victoria University, Wellington, New Zealand. October 6 2015\\
+\years{2015$^t$} {\bf J. Bulbulia}, Computational Phylogenetic Methods Test Functional Hypotheses About Culture. California Technical Institute, Los Angeles, USA. 2 September, 2015.\\
+\years{2015$^t$} {\bf J. Bulbulia}, J. Watts, S. Greenhill, and R. Gray, The Punctuated Evolution of Religion. International Association for the History of Religions.  Erfurt, Germany. 28 Aug, 2015.\\
+\years{2015$^t$} {\bf J. Bulbulia}, Recording History to Understand it: Longitudinal Study of Religion in New Zealand. International Association for the History of Religions.  Erfurt, Germany. 25 Aug, 2015.\\
+\years{2015$^t$} {\bf J. Bulbulia}, Religion and Charity in New Zealand. International Association for the History of Religions. Erfurt, Germany. 25 Aug, 2015.\\
+\years{2015$^t$} J. Watts, R. Gray, and {\bf J. Bulbulia}, Broad supernatural punishment but not moralising high gods precede the evolution of political complexity in Austronesia. Victoria University Empirical Philosophy Workshop. Victoria University, Wellington, New Zealand. 15 March 2015.\\
+\years{2015$^t$} {\bf J. Bulbulia} and C. G. Sibley, What is the Dollar Value of Religion? Society of Australian Social Psychology Conference. Newcastle, Australia. 10 April 2015.\\
+\years{2014$^t$} G. Troughton, {\bf J. Bulbulia}, D. Osborne, L. Greaves, Y. Huang, P. Milojev, and C. G. Sibley, Religion in Contemporary New Zealand: Insights from a National Probability Study. Combined Australian and New Zealand Religious History Conference. Massey University, Albany Campus. Massey University, Auckland, New Zealand. Wednesday 26 November 2014.  \\
+\years{2014$^t$}  J. H. Shaver, C. G. Sibley, and {\bf J. Bulbulia}, Fast or Slow? Religion and Life History Strategies in New Zealand. IACSR panel, American Academy of Religion. San Diego, USA. Friday, 21 November 2014.\\
+\years{2014$^t$}  {\bf J. Bulbulia}, J. H. Shaver, and C. G. Sibley, Are Religious People Really More Charitable? IACSR panel, American Academy of Religion. San Diego, USA. Friday 21 November 2014.\\
+\years{2014$^t$} {\bf J. Bulbulia} and C. G. Sibley, The New Zealand Attitudes and Values Study: An overview. Presentation to Government:  Association of Social Science Research. 5 November 2014 \href{http://assr.org.nz/2014/11/22/the-new-zealand-attitudes-and-values-study-or-how-to-survive-starting-your-own-longitudinal-s-ample/}{link} \\
+\years{2014$^t$}{\bf J. Bulbulia}, G. Troughton, and C. G. Sibley, Charity and Religion in New Zealand: The New Zealand Attitudes and Values Study. Laidlaw Theological Seminary. Auckland, New Zealand. 11 September 2014. \\
+\years{2014$^t$}{\bf J. Bulbulia} and C. G. Sibley, The New Zealand Attitudes and Values Study: How to Survive a Longitudinal National Probability Sample. LEVYNA, Masaryk University. Brno, Czech Republic. 24 June 2014.\\
+\years{2014$^t$}D. Xygalatas and {\bf J. Bulbulia}, Integration in the Cognitive Science of Religion: Methods, Theories, and People. IACSR Conference. Brno, Czech Republic. 21 June 2014. \\
+\years{2014$^t$} {\bf J. Bulbulia},  Why Painful Rituals? Philosophy Workshop. Victoria University, Wellington, New Zealand. \\
+\years{2013$^t$}{\bf J.~Bulbulia}, Quantifying Ritual Emotion. Victoria University Psychology Seminar. Victoria University, Wellington, New Zealand. 19 July 2013.\href{https://www.dropbox.com/s/nikzacfqpbypcd5/Bulbulia_19_July_VICPSYCH_poster.pdf}{poster}\\ Latex file:\href{https://www.dropbox.com/s/xeejz4jxfprsme0/Bulbulia_19_July_VICPSYCH_poster.tex}{here}\\
+\years{2013$^t$}{\bf J.~Bulbulia}, Bayesian Analysis of Rated Images From a
+Sacred Ritual Shows Role-Dependent Responses. Invited Poster. University of British Columbia CERC meeting. Vancouver, Canada. 5 May 2013.\href{https://www.dropbox.com/s/clkbjqcdqwhj213/Bulbulia_etal_poster_portrait_UBC_4_MAY_13.pdf}{poster}\\
+\years{2013$^t$}{\bf J.~Bulbulia}, Faith After the Quake. Religious Studies Seminar. Wellington, New Zealand. 15 March 2013.\\
+\years{2012$^t$}{\bf J.~Bulbulia}, Rituals, Pain, and Cooperation. The Elowitz Lab, California Institute of Technology, Biology Division. 22 November 2012.\\
+\years{2012$^t$}{\bf J.~Bulbulia} and C. G. Sibley, How Religion Interacts with Personality to Affect Social Cognition. American Academy of Religion Conference. Chicago, USA. 18 November 2012.\href{https://www.dropbox.com/s/da5n8y0afhst554/18NOV_BULBUBULIA_AAR_2012.pdf}{pdf}\\
+\years{2012$^t$}{\bf J.~Bulbulia}, Five Predictions For The Next Fifteen Years In The Experimental Study of Religion, Homo Experimentalis, LEVYNA. Masarky University, Brno, Czech Republic. 24 October 2012.\\
+\years{2012$^t$}{\bf J.~Bulbulia}, J. Watts, Q. D. Atkinson, S. Greenhill, and R. Gray. Three Big Questions Cultural Phylogenetics Has Helped Historians to Answer. Society of Biblical Literature. Chicago, USA. 17 November 2012.\\
+\years{2012$^t$}{\bf J.~Bulbulia}, Why Rituals? Results from experimental field studies. Language and Cultural Evolution Group. Auckland University. 12 October 2012.\\
+\years{2012$^t$}{\bf J.~Bulbulia}, Plenary session report: The Cultural Evolution of Religion. Ernst Str\"ugnman Forum: \href{http://www.esforum.de/forums/esf12_cultural_evolution.html}{Cultural Evolution}. Frankfurt, Germany. 1 June 2012\\
+\years{2012$^t$}{\bf J.~Bulbulia}, Subtractive and Additive Conceptions of Experimental Ritual Studies. Laboratory for the Experimental Study of Religion, Department for the Study of Religions. Masaryk University, Brno, Czech Republic. 9 January 2012.(Webinar)\\
+\years{2011$^t$}{\bf J.~Bulbulia}, P. Reddish, R. Callander, and R. Fischer,  \newblock \href{http://db.tt/H0POMYBN}{Differential Effects on Cooperation from Rituals Varying in Body Synchrony and Sacred Values}\newblock AAR Cognitive Science of Religion Group. San Francisco, USA. 20 November 2011.\\
+\years{2011$^t$}{\bf J.~Bulbulia}, P. Reddish, R. Callander, and R. Fischer, \newblock \href{http://www.psych.auckland.ac.nz/uoa/home/about/news-and-events/events/events/template/event_item.jsp?cid=362664}{Explaining collective rituals.}\newblock (invited talk): Auckland Psychology Department. 21 September 2011.\\
+\newblock http://necsi.edu/events/iccs2011/accepted.html \newblock \href{https://www.dropbox.com/s/iqukoqbxzc7rzci/ICCS-259-FreanBulbulia.pdf}{PDF}\\
+\years{2011$^t$}P. Reddish, R. Fischer and \textbf{J. Bulbulia},  Assessing the Cooperative Effects of Ritual Interactions: Synchrony or Choreography? Conference: The Cognitive Science Society/IACSR Workshop: New developments in the cognitive science of religion. Boston MA, USA. 20 July 2011.\\
+\years{2010$^t$}{\bf J.~Bulbulia},
+	\newblock Evolutionary cognitive science of religion.
+	\newblock Conference: IAHR. Toronto, Canada. 19 August 2010.\\
+\years{2010$^t$}\textbf{J.~Bulbulia}, P.~Reddish, R. Callander, and R.~Fischer, Explaining effervescence. Conference: IAHR. Toronto, Canada. 19 August 2010.\\
+\years{2010$^t$}\textbf{J.~Bulbulia} and M.~Frean, Religious cooperation in large social worlds. Conference: IAHR. Toronto, Canada. 17 August 2010.\\
+\years{2010$^t$}{\bf J.~Bulbulia}, Animal magnetism and social prediction. Conference: Toward a Unified Science of Religion. Otago University, Dunedin, New Zealand. 12 February 2010.\\
+\years{2010$^t$}{\bf J.~Bulbulia}, Coordination at scale: the cooperative affordances of religious rituals. Adaptive Logic Group. Santa Barbara, California, USA. 9 January 2010.\\
+\years{2009$^t$}{\bf J.~Bulbulia}, Cognitive study of religion: perspectives from social cognition. University of Vermont: Burlington Vermont, USA. 11 November 2009.\\
+\years{2009$^t$}{\bf J.~Bulbulia}, The neuroeconomics of religion. AAR Cognitive Science of Religion Group. Montreal Quebec, Canada. 7 November 2009.\\
+\years{2009$^t$}{\bf J.~Bulbulia}, The evolutionary study of religion: a primer. AAR Panel: evolution of Religion. Montreal Quebec, Canada. 8 November 2009.\\
+\years{2009$^t$}{\bf J.~Bulbulia}, Explanation in the study of religion: the role of evidence~\&~models. Aarhus University, Religion Cognition and Culture. Aarhus, Denmark. 20 August 2009.\\
+\years{2009$^t$}\textbf{J.~Bulbulia} and D.~Xygalatas,
+  \href{http://www.interacting-minds.net/Sted/IM-SEMINAR2009.html}{Evidence of Emotional but not Perceptual Episodic Memory in a Spanish Firewalk}. Aarhus University, Center for Integrated Neuroscience. Aarhus, Denmark. 17 August 2009\\
+\years{2009$^t$}{\bf J.~Bulbulia}, Evolving religious coordination through cues. Association for the Study of Religion and Economics. Washington D.C., USA. 3 April 2009.\\
+\years{2009$^t$}\textbf{J.~Bulbulia} and D.~Xygalatas, Firewalking and the evolutionary theory of games. Society for Scientific Anthropology. Asilomar California, United States. 28 March 2009.\\
+\years{2009$^t$}{\bf J.~Bulbulia}, Collective effervescence. Center for the Advanced Study in the Behavioral Sciences at Stanford University. Stanford University, Palo Alto California, United States. 30 March 2009.
+\\
+\years{2008$^t$}{\bf J.~Bulbulia},
+\newblock Anthropomorphism and solidarity.
+\newblock Biblical Literature and Biblical Religions. Auckland, New Zealand. August 2008.\\
+\years{2008$^t$}{\bf J.~Bulbulia}, \newblock Religious signalling in a firewalk.\newblock Australian National University, Philosophy Programme RSSS: Biological Signaling workshop. \newblock Canberra,  Australia. 25 July 2008.\\
+\years{2007$^t$}{\bf J.~Bulbulia}, \newblock Religion as coordination: Variable religious frames and the stag hunt.\newblock Association for the Study of Religion and Economics. Tampa Florida, USA. 3 November 2007.\\
+\years{2007$^t$}{\bf J.~Bulbulia}, \newblock Religious schmelief: Religiosity as skilfull social engagement.
+\newblock Society for the Scientific Study of Religion. 
+\newblock Tampa Florida, USA. 4 November 2007.\\
+\years{2007$^t$}{\bf J.~Bulbulia},
+\newblock Religious altruism: results of an economic game.
+\newblock Aarhus University, Aarhus, Denmark. 31 May 2007.\\
+\years{2007$^t$}{\bf J.~Bulbulia},
+\newblock The commitments of commitment signalling theory.
+\newblock Hawaii Conference on Evolution and Religion. Makaha Resort Hawaii, USA. 6 January 2007.\\
+\years{2006$^t$}{\bf J.~Bulbulia},
+\newblock Why evolutionary niche construction matters to evolutionary understandings of religion.
+\newblock University of Copenhagen, Copenhagen, Denmark. 14 December 2006.\\
+\years{2006$^t$}{\bf J.~Bulbulia},
+\newblock Constructing the schizophrenic niche: Cognitive adaptations for religious culture (featured speaker).
+\newblock Evolution and Religion Workshop, Institute for Cognition and Culture. Queens University Belfast, Northern Ireland. 30 October 2006.\\
+\years{2006$^t$}{\bf J.~Bulbulia},
+\newblock Religious cognition, social cognition, and moral niche construction.
+\newblock Danish Society for Philosophy of Psychology. Copenhagen, Denmark. September 2006.\\
+\years{2006$^t$}{\bf J.~Bulbulia},
+\newblock The cognitive origins of religion: what cultural inheritance does not explain.
+\newblock International Association for the Cognitive Science of Religion. Aarhus, Denmark. January 2006.
+
+\end{document}
