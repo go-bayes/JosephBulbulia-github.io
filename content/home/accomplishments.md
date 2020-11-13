@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "TBA"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "TBA"
   url = ""
   certificate_url = ""
@@ -40,10 +40,10 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "TBA"
-  organization_url = "https://www.datacamp.com"
+  organization_url = ""
   title = "TBA"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
