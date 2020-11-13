@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.shh.mpg.de/252138/dlcepeople"
   date_start = "2019-01"
   date_end = ""
-  description = "Cultural Evolution Group"
+  description = """Cultural Evolution Group"""
 
 [[item]]
   organization = "University of Auckland, Faculty of Arts"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-01"
   date_end = ""
-  description = "Endowed Chair"
+  description = """Endowed Chair"""
   
 [[item]]
   organization = "Victoria University"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-01"
   date_end = ""
-  description = "Presented at New Zealand Parlaiment"
+  description = """Presented at New Zealand Parlaiment"""
 
 +++
