@@ -37,8 +37,18 @@ date_format = "Jan 2006"
   company = "University of Auckland"
   company_url = ""
   location = "New Zealand"
-  date_start = "2018-01-01"
+  date_start = "2018-02-01"
   date_end = "2020-09-15"
   description = """Faculty of Arts, School of Humanities."""
+   """
+  
+[[experience]]  
+ title = "Lecturer, Senior Lecturer, Reader, Professor"
+  company = "Victoria University"
+  company_url = ""
+  location = "Wellington New Zealand"
+  date_start = "2000-08-22"
+  date_end = "2018-01-30"
+  description = """Faculty of Arts, School of Humanities."""  
 
 +++
