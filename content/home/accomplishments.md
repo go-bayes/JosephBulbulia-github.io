@@ -17,31 +17,31 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required. d
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "Max Planck Institute for the Science of Human History"
-  organization_url = ""
-  title = "Appointment: Research Associate"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-02"
-  date_end = ""
-  description = """Cultural Evolution Group"""
-
-[[item]]
-  organization = "University of Auckland"
-  organization_url = ""
-  title = "Appointment: Maclaurin Goodfellow Chair"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-01"
-  date_end = ""
-  description = ""
+# 
+# [[item]]
+#   organization = "Max Planck Institute for the Science of Human History"
+#   organization_url = ""
+#   title = "Appointment: Research Associate"
+#   url = ""
+#   certificate_url = ""
+#   date_start = "2019-02"
+#   date_end = ""
+#   description = """Cultural Evolution Group"""
+# 
+# [[item]]
+#   organization = "University of Auckland"
+#   organization_url = ""
+#   title = "Appointment: Maclaurin Goodfellow Chair"
+#   url = ""
+#   certificate_url = ""
+#   date_start = "2018-01"
+#   date_end = ""
+#   description = ""
   
 [[item]]
   organization = "Victoria University"
   organization_url = ""
-  title = "Victoria University Research Excellence Award"
+  title = "VUW Research Excellence Award"
   url = ""
   certificate_url = ""
   date_start = "2018-01"
