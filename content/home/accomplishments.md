@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Appointment: Research Associate"
   url = ""
   certificate_url = ""
-  date_start = "2019-01"
+  date_start = "2019-02"
   date_end = ""
   description = """Cultural Evolution Group"""
 
