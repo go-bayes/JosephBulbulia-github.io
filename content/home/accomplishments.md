@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-02"
   date_end = ""
   description = """Cultural Evolution Group"""
-# 
+
 # [[item]]
 #   organization = "University of Auckland"
 #   organization_url = ""
