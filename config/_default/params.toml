@@ -100,7 +100,7 @@ address = {street = "Victoria University", city = "Kelburn", region = "Wellingto
 coordinates = {latitude = "-41.29019", longitude = "174.767"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building  and take the stairs to Office 324 on level 3"
+directions = "Enter building and take the stairs to office 324, on level 3."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
