@@ -40,12 +40,12 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Victoria University"
-  organization_url = ""
+  organization_url = 
   title = "VUW Research Excellence Award"
-  url = ""
-  certificate_url = ""
+  url = 
+  certificate_url = 
   date_start = "2018-01"
-  date_end = ""
-  description = ""
+  date_end = 
+  description = 
 
 +++
