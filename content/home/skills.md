@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = ":smile:"
   icon_pack = "emoji"
-  name = "Emojiness"
+  name = "Running"
   description = "10%"
 
 # Uncomment to use emoji icons.
