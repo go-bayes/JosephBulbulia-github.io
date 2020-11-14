@@ -12,21 +12,21 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Accomplishments.
+#\ Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required. d
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # 
-# [[item]]
-#   organization = "Max Planck Institute for the Science of Human History"
-#   organization_url = ""
-#   title = "Appointment: Research Associate"
-#   url = ""
-#   certificate_url = ""
-#   date_start = "2019-02"
-#   date_end = ""
-#   description = """Cultural Evolution Group"""
+[[item]]
+  organization = "Max Planck Institute for the Science of Human History"
+  organization_url = ""
+  title = "Appointment: Research Associate"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-02"
+  date_end = ""
+  description = """Cultural Evolution Group"""
 # 
 # [[item]]
 #   organization = "University of Auckland"
