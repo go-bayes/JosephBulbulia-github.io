@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments "
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -38,14 +38,14 @@ date_format = "Jan 2006"
 #   date_end = ""
 #   description = ""
   
-[[item]]
-  organization = "Victoria University"
-  organization_url = 
-  title = "VUW Research Excellence Award"
-  url = 
-  certificate_url = 
-  date_start = "2018-01"
-  date_end = 
-  description = 
+# [[item]]
+#   organization = "Victoria University"
+#   organization_url = 
+#   title = "VUW Research Excellence Award"
+#   url = 
+#   certificate_url = 
+#   date_start = "2018-01"
+#   date_end = 
+#   description = 
 
 +++
