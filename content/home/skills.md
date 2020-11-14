@@ -27,7 +27,7 @@ subtitle = ""
   description = "Improving Uncertainty"  
   
 [[feature]]
-  icon = ":smile:"
+  icon = "running"
   icon_pack = "fas"
   name = "running"
   description = "in circles/on empty"
