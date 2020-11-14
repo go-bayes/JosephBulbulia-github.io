@@ -17,11 +17,10 @@ organizations:
 bio: My research interests include evolution, religion, cooperation, wellbeing, longitudinal methods
 
 # Interests to show in About widget
-interests:
-- Bayesian Inference
-- Cultural Evolution
-- Religion and Cooperation
-
+Questions:
+- Why do people help and harm?  
+- How do religions affect societies? 
+- What makes life rewarding?
 # Education to show in About widget
 education:
   courses:
@@ -55,6 +54,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joseph-bulbulia-1ba5a514/?originalSubdomain=nz
+- icon: orcid
+  link: https://orcid.org/0000-0002-5861-2056
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -74,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a professor of Psychology at Victoria University in Wellington, New Zealand. I am interested in the evolutionary and longitudinal study of religion, cooperation,and psychological health. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
+I am a professor of Psychology at Victoria University in Wellington, New Zealand. I am interested in the evolutionary and longitudinal study of religion, cooperation, and psychological health. I am one of four senior managers for the New Zealand Attitudes and Values Study. 

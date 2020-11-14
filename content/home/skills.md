@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "100%"
+  description = "Good enuf"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Bayesian Inference"
+  description = "Improving Uncertainty"  
   
 [[feature]]
   icon = ":smile:"
-  icon_pack = "emoji"
-  name = "Running"
-  description = "10%"
+  icon_pack = "fas"
+  name = "running"
+  description = "in circles/on empty"
 
 # Uncomment to use emoji icons.
 # [[feature]]
