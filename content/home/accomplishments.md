@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplishments"
@@ -18,15 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required. d
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 # 
-[[item]]
-  organization = "Max Planck Institute for the Science of Human History"
-  organization_url = ""
-  title = "Appointment: Research Associate"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-02"
-  date_end = ""
-  description = """Cultural Evolution Group"""
+# [[item]]
+#   organization = "Max Planck Institute for the Science of Human History"
+#   organization_url = ""
+#   title = "Appointment: Research Associate"
+#   url = ""
+#   certificate_url = ""
+#   date_start = "2019-02"
+#   date_end = ""
+#   description = """Cultural Evolution Group"""
 
 # [[item]]
 #   organization = "University of Auckland"
