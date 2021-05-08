@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.co.nz/citations?user=82b99k8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/jacopastorius
+  link: https://github.com/go-bayes
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joseph-bulbulia-1ba5a514/?originalSubdomain=nz
