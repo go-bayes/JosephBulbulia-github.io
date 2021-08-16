@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  16 AUG 2021 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  16 AUG 2021 20:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,7 +265,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 113.
+Package hyperref Info: Option `colorlinks' set `true' on input line 111.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/mdwtools/mdwlist.sty
 Package: mdwlist 1996/05/02 1.1 Various list-related things
 )
@@ -324,22 +324,22 @@ LaTeX Warning: Label `Satherley:2015' multiply defined.
 )
 \openout1 = `bulbuliaCV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count195
@@ -397,7 +397,7 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 150.
+Package hyperref Info: Link coloring ON on input line 148.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -410,21 +410,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count267
 )
-LaTeX Info: Redefining \ref on input line 150.
-LaTeX Info: Redefining \pageref on input line 150.
-LaTeX Info: Redefining \nameref on input line 150.
+LaTeX Info: Redefining \ref on input line 148.
+LaTeX Info: Redefining \pageref on input line 148.
+LaTeX Info: Redefining \nameref on input line 148.
  (./bulbuliaCV.out) (./bulbuliaCV.out)
 \@outlinefile=\write3
 \openout3 = `bulbuliaCV.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 150.
+LaTeX Info: Redefining \microtypecontext on input line 148.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 150.
+LaTeX Info: Redefining \showhyphens on input line 148.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -434,153 +434,153 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 17
+2.
+Package marginnote Info: right page because not two side mode on input line 172
+.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 172.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 172.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 172.
+Package marginnote Info: Margin note 1.2 is on absolute page 1 on input line 17
+3.
+Package marginnote Info: right page because not two side mode on input line 173
+.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 173.
+Package marginnote Info: Margin note 1.3 is on absolute page 1 on input line 17
 4.
 Package marginnote Info: right page because not two side mode on input line 174
 .
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 174.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 174.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 174.
-Package marginnote Info: Margin note 1.2 is on absolute page 1 on input line 17
-5.
-Package marginnote Info: right page because not two side mode on input line 175
-.
-Package marginnote Info: xpos seems to be 100.01144pt on input line 175.
-Package marginnote Info: Margin note 1.3 is on absolute page 1 on input line 17
-6.
-Package marginnote Info: right page because not two side mode on input line 176
-.
-Package marginnote Info: xpos seems to be 100.01144pt on input line 176.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 176.
+(Font)              <9> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 176.
+(Font)              <6> on input line 174.
 Package marginnote Info: Margin note 1.4 is on absolute page 1 on input line 18
+1.
+Package marginnote Info: right page because not two side mode on input line 181
+.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 181.
+Package marginnote Info: Margin note 1.5 is on absolute page 1 on input line 18
+2.
+Package marginnote Info: right page because not two side mode on input line 182
+.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 182.
+Package marginnote Info: Margin note 1.6 is on absolute page 1 on input line 18
 3.
 Package marginnote Info: right page because not two side mode on input line 183
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 183.
-Package marginnote Info: Margin note 1.5 is on absolute page 1 on input line 18
+Package marginnote Info: Margin note 1.7 is on absolute page 1 on input line 18
 4.
 Package marginnote Info: right page because not two side mode on input line 184
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 184.
-Package marginnote Info: Margin note 1.6 is on absolute page 1 on input line 18
+Package marginnote Info: Margin note 1.8 is on absolute page 1 on input line 18
 5.
 Package marginnote Info: right page because not two side mode on input line 185
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 185.
-Package marginnote Info: Margin note 1.7 is on absolute page 1 on input line 18
-6.
-Package marginnote Info: right page because not two side mode on input line 186
+Package marginnote Info: Margin note 1.9 is on absolute page 1 on input line 18
+9.
+Package marginnote Info: right page because not two side mode on input line 189
 .
-Package marginnote Info: xpos seems to be 100.01144pt on input line 186.
-Package marginnote Info: Margin note 1.8 is on absolute page 1 on input line 18
-7.
-Package marginnote Info: right page because not two side mode on input line 187
+Package marginnote Info: xpos seems to be 100.01144pt on input line 189.
+Package marginnote Info: Margin note 1.10 is on absolute page 1 on input line 1
+90.
+Package marginnote Info: right page because not two side mode on input line 190
 .
-Package marginnote Info: xpos seems to be 100.01144pt on input line 187.
-Package marginnote Info: Margin note 1.9 is on absolute page 1 on input line 19
-1.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 190.
+Package marginnote Info: Margin note 1.11 is on absolute page 1 on input line 1
+91.
 Package marginnote Info: right page because not two side mode on input line 191
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 191.
-Package marginnote Info: Margin note 1.10 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.12 is on absolute page 1 on input line 1
 92.
 Package marginnote Info: right page because not two side mode on input line 192
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 192.
-Package marginnote Info: Margin note 1.11 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.13 is on absolute page 1 on input line 1
 93.
 Package marginnote Info: right page because not two side mode on input line 193
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 193.
-Package marginnote Info: Margin note 1.12 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.14 is on absolute page 1 on input line 1
 94.
 Package marginnote Info: right page because not two side mode on input line 194
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 194.
-Package marginnote Info: Margin note 1.13 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.15 is on absolute page 1 on input line 1
 95.
 Package marginnote Info: right page because not two side mode on input line 195
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 195.
-Package marginnote Info: Margin note 1.14 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.16 is on absolute page 1 on input line 1
 96.
 Package marginnote Info: right page because not two side mode on input line 196
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 196.
-Package marginnote Info: Margin note 1.15 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.17 is on absolute page 1 on input line 1
 97.
 Package marginnote Info: right page because not two side mode on input line 197
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 197.
-Package marginnote Info: Margin note 1.16 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.18 is on absolute page 1 on input line 1
 98.
 Package marginnote Info: right page because not two side mode on input line 198
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 198.
-Package marginnote Info: Margin note 1.17 is on absolute page 1 on input line 1
+Package marginnote Info: Margin note 1.19 is on absolute page 1 on input line 1
 99.
 Package marginnote Info: right page because not two side mode on input line 199
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 199.
-Package marginnote Info: Margin note 1.18 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.20 is on absolute page 1 on input line 2
 00.
 Package marginnote Info: right page because not two side mode on input line 200
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 200.
-Package marginnote Info: Margin note 1.19 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.21 is on absolute page 1 on input line 2
 01.
 Package marginnote Info: right page because not two side mode on input line 201
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 201.
-Package marginnote Info: Margin note 1.20 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.22 is on absolute page 1 on input line 2
 02.
 Package marginnote Info: right page because not two side mode on input line 202
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 202.
-Package marginnote Info: Margin note 1.21 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.23 is on absolute page 1 on input line 2
 03.
 Package marginnote Info: right page because not two side mode on input line 203
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 203.
-Package marginnote Info: Margin note 1.22 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.24 is on absolute page 1 on input line 2
 04.
 Package marginnote Info: right page because not two side mode on input line 204
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 204.
-Package marginnote Info: Margin note 1.23 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.25 is on absolute page 1 on input line 2
 05.
 Package marginnote Info: right page because not two side mode on input line 205
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 205.
-Package marginnote Info: Margin note 1.24 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.26 is on absolute page 1 on input line 2
 06.
 Package marginnote Info: right page because not two side mode on input line 206
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 206.
-Package marginnote Info: Margin note 1.25 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.27 is on absolute page 1 on input line 2
 07.
 Package marginnote Info: right page because not two side mode on input line 207
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 207.
-Package marginnote Info: Margin note 1.26 is on absolute page 1 on input line 2
+Package marginnote Info: Margin note 1.28 is on absolute page 1 on input line 2
 08.
 Package marginnote Info: right page because not two side mode on input line 208
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 208.
-Package marginnote Info: Margin note 1.27 is on absolute page 1 on input line 2
-09.
-Package marginnote Info: right page because not two side mode on input line 209
-.
-Package marginnote Info: xpos seems to be 100.01144pt on input line 209.
-Package marginnote Info: Margin note 1.28 is on absolute page 1 on input line 2
-10.
-Package marginnote Info: right page because not two side mode on input line 210
-.
-Package marginnote Info: xpos seems to be 100.01144pt on input line 210.
  [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3p
@@ -589,554 +589,555 @@ s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.422 
+l.420 
       ] [4pdfTeX warning (ext4): destination with the same identifier (name{cit
 e.this}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.533 
+l.531 
       ]pdfTeX warning (ext4): destination with the same identifier (name{cite.d
 oi:0}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.549 \bibitem{doi:0}
+l.547 \bibitem{doi:0}
                      {\bf Bulbulia, J.} (2017).pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.doi:0}) has been already used, duplicate
  ignored
 <to be read again> 
                    \relax 
-l.555 \bibitem{doi:0}
+l.553 \bibitem{doi:0}
                      \textcolor{Purple}{pdfTeX warning (ext4): destination with
  the same identifier (name{cite.doi:0}) has been already used, duplicate ignore
 d
 <to be read again> 
                    \relax 
-l.561 \bibitem{doi:0}
+l.559 \bibitem{doi:0}
                       [5] [6pdfTeX warning (ext4): destination with the same id
 entifier (name{cite.Satherley:2015}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.793 \bibitem{10.1371/journal.pone.0136783}
+l.791 \bibitem{10.1371/journal.pone.0136783}
                                             ] [7] [8] [9] [10]
 Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line 
+1406.
+Package marginnote Info: right page because not two side mode on input line 140
+6.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 1406.
+Package marginnote Info: Margin note 11.2 is on absolute page 11 on input line 
 1408.
 Package marginnote Info: right page because not two side mode on input line 140
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1408.
-Package marginnote Info: Margin note 11.2 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.3 is on absolute page 11 on input line 
 1410.
 Package marginnote Info: right page because not two side mode on input line 141
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1410.
-Package marginnote Info: Margin note 11.3 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.4 is on absolute page 11 on input line 
 1412.
 Package marginnote Info: right page because not two side mode on input line 141
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1412.
-Package marginnote Info: Margin note 11.4 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.5 is on absolute page 11 on input line 
 1414.
 Package marginnote Info: right page because not two side mode on input line 141
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1414.
-Package marginnote Info: Margin note 11.5 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.6 is on absolute page 11 on input line 
 1416.
 Package marginnote Info: right page because not two side mode on input line 141
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1416.
-Package marginnote Info: Margin note 11.6 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.7 is on absolute page 11 on input line 
 1418.
 Package marginnote Info: right page because not two side mode on input line 141
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1418.
-Package marginnote Info: Margin note 11.7 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.8 is on absolute page 11 on input line 
 1420.
 Package marginnote Info: right page because not two side mode on input line 142
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1420.
-Package marginnote Info: Margin note 11.8 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 11.9 is on absolute page 11 on input line 
 1422.
 Package marginnote Info: right page because not two side mode on input line 142
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1422.
-Package marginnote Info: Margin note 11.9 is on absolute page 11 on input line 
-1424.
+Package marginnote Info: Margin note 11.10 is on absolute page 11 on input line
+ 1424.
 Package marginnote Info: right page because not two side mode on input line 142
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1424.
-Package marginnote Info: Margin note 11.10 is on absolute page 11 on input line
+Package marginnote Info: Margin note 11.11 is on absolute page 11 on input line
  1426.
 Package marginnote Info: right page because not two side mode on input line 142
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1426.
-Package marginnote Info: Margin note 11.11 is on absolute page 11 on input line
+Package marginnote Info: Margin note 11.12 is on absolute page 11 on input line
  1428.
 Package marginnote Info: right page because not two side mode on input line 142
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1428.
-Package marginnote Info: Margin note 11.12 is on absolute page 11 on input line
+Package marginnote Info: Margin note 11.13 is on absolute page 11 on input line
  1430.
 Package marginnote Info: right page because not two side mode on input line 143
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1430.
-Package marginnote Info: Margin note 11.13 is on absolute page 11 on input line
+Package marginnote Info: Margin note 11.14 is on absolute page 11 on input line
  1432.
 Package marginnote Info: right page because not two side mode on input line 143
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1432.
-Package marginnote Info: Margin note 11.14 is on absolute page 11 on input line
+Package marginnote Info: Margin note 11.15 is on absolute page 11 on input line
  1434.
 Package marginnote Info: right page because not two side mode on input line 143
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1434.
-Package marginnote Info: Margin note 11.15 is on absolute page 11 on input line
+Package marginnote Info: Margin note 11.16 is on absolute page 12 on input line
  1436.
 Package marginnote Info: right page because not two side mode on input line 143
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1436.
-Package marginnote Info: Margin note 11.16 is on absolute page 12 on input line
- 1441.
+ [11]
+Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
+1441.
 Package marginnote Info: right page because not two side mode on input line 144
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1441.
-Package marginnote Info: Margin note 11.17 is on absolute page 12 on input line
- 1442.
+Package marginnote Info: Margin note 12.2 is on absolute page 12 on input line 
+1442.
 Package marginnote Info: right page because not two side mode on input line 144
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1442.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1440--1448
+Underfull \hbox (badness 10000) in paragraph at lines 1440--1443
 
  []
 
-[11]
-Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.3 is on absolute page 12 on input line 
 1459.
 Package marginnote Info: right page because not two side mode on input line 145
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1459.
-Package marginnote Info: Margin note 12.2 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.4 is on absolute page 12 on input line 
 1460.
 Package marginnote Info: right page because not two side mode on input line 146
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1460.
-Package marginnote Info: Margin note 12.3 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.5 is on absolute page 12 on input line 
 1461.
 Package marginnote Info: right page because not two side mode on input line 146
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1461.
-Package marginnote Info: Margin note 12.4 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.6 is on absolute page 12 on input line 
 1462.
 Package marginnote Info: right page because not two side mode on input line 146
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1462.
-Package marginnote Info: Margin note 12.5 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.7 is on absolute page 12 on input line 
 1463.
 Package marginnote Info: right page because not two side mode on input line 146
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1463.
-Package marginnote Info: Margin note 12.6 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.8 is on absolute page 12 on input line 
 1464.
 Package marginnote Info: right page because not two side mode on input line 146
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1464.
-Package marginnote Info: Margin note 12.7 is on absolute page 12 on input line 
+Package marginnote Info: Margin note 12.9 is on absolute page 12 on input line 
 1465.
 Package marginnote Info: right page because not two side mode on input line 146
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1465.
-Package marginnote Info: Margin note 12.8 is on absolute page 12 on input line 
-1466.
+Package marginnote Info: Margin note 12.10 is on absolute page 12 on input line
+ 1466.
 Package marginnote Info: right page because not two side mode on input line 146
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1466.
-Package marginnote Info: Margin note 12.9 is on absolute page 12 on input line 
-1467.
+Package marginnote Info: Margin note 12.11 is on absolute page 12 on input line
+ 1467.
 Package marginnote Info: right page because not two side mode on input line 146
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1467.
-Package marginnote Info: Margin note 12.10 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.12 is on absolute page 12 on input line
  1468.
 Package marginnote Info: right page because not two side mode on input line 146
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1468.
-Package marginnote Info: Margin note 12.11 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.13 is on absolute page 12 on input line
  1469.
 Package marginnote Info: right page because not two side mode on input line 146
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1469.
-Package marginnote Info: Margin note 12.12 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.14 is on absolute page 12 on input line
  1470.
 Package marginnote Info: right page because not two side mode on input line 147
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1470.
-Package marginnote Info: Margin note 12.13 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.15 is on absolute page 12 on input line
  1472.
 Package marginnote Info: right page because not two side mode on input line 147
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1472.
-Package marginnote Info: Margin note 12.14 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.16 is on absolute page 12 on input line
  1475.
 Package marginnote Info: right page because not two side mode on input line 147
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1475.
-Package marginnote Info: Margin note 12.15 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.17 is on absolute page 12 on input line
  1476.
 Package marginnote Info: right page because not two side mode on input line 147
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1476.
-Package marginnote Info: Margin note 12.16 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.18 is on absolute page 12 on input line
  1477.
 Package marginnote Info: right page because not two side mode on input line 147
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1477.
-Package marginnote Info: Margin note 12.17 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.19 is on absolute page 12 on input line
  1480.
 Package marginnote Info: right page because not two side mode on input line 148
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1480.
-Package marginnote Info: Margin note 12.18 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.20 is on absolute page 13 on input line
  1481.
 Package marginnote Info: right page because not two side mode on input line 148
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1481.
-Package marginnote Info: Margin note 12.19 is on absolute page 12 on input line
+Package marginnote Info: Margin note 12.21 is on absolute page 13 on input line
  1482.
 Package marginnote Info: right page because not two side mode on input line 148
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1482.
-Package marginnote Info: Margin note 12.20 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.22 is on absolute page 13 on input line
  1483.
 Package marginnote Info: right page because not two side mode on input line 148
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1483.
-Package marginnote Info: Margin note 12.21 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.23 is on absolute page 13 on input line
  1484.
 Package marginnote Info: right page because not two side mode on input line 148
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1484.
-Package marginnote Info: Margin note 12.22 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.24 is on absolute page 13 on input line
  1485.
 Package marginnote Info: right page because not two side mode on input line 148
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1485.
-Package marginnote Info: Margin note 12.23 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.25 is on absolute page 13 on input line
  1486.
 Package marginnote Info: right page because not two side mode on input line 148
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1486.
-Package marginnote Info: Margin note 12.24 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.26 is on absolute page 13 on input line
  1487.
 Package marginnote Info: right page because not two side mode on input line 148
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1487.
-Package marginnote Info: Margin note 12.25 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.27 is on absolute page 13 on input line
  1488.
 Package marginnote Info: right page because not two side mode on input line 148
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1488.
-Package marginnote Info: Margin note 12.26 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.28 is on absolute page 13 on input line
  1489.
 Package marginnote Info: right page because not two side mode on input line 148
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1489.
-Package marginnote Info: Margin note 12.27 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.29 is on absolute page 13 on input line
  1490.
 Package marginnote Info: right page because not two side mode on input line 149
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1490.
-Package marginnote Info: Margin note 12.28 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.30 is on absolute page 13 on input line
  1491.
 Package marginnote Info: right page because not two side mode on input line 149
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1491.
-Package marginnote Info: Margin note 12.29 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.31 is on absolute page 13 on input line
  1492.
 Package marginnote Info: right page because not two side mode on input line 149
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1492.
-Package marginnote Info: Margin note 12.30 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.32 is on absolute page 13 on input line
  1493.
 Package marginnote Info: right page because not two side mode on input line 149
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1493.
-Package marginnote Info: Margin note 12.31 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.33 is on absolute page 13 on input line
  1494.
 Package marginnote Info: right page because not two side mode on input line 149
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1494.
-Package marginnote Info: Margin note 12.32 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.34 is on absolute page 13 on input line
  1495.
 Package marginnote Info: right page because not two side mode on input line 149
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1495.
-Package marginnote Info: Margin note 12.33 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.35 is on absolute page 13 on input line
  1496.
 Package marginnote Info: right page because not two side mode on input line 149
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1496.
-Package marginnote Info: Margin note 12.34 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.36 is on absolute page 13 on input line
  1497.
 Package marginnote Info: right page because not two side mode on input line 149
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1497.
-Package marginnote Info: Margin note 12.35 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.37 is on absolute page 13 on input line
  1498.
 Package marginnote Info: right page because not two side mode on input line 149
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1498.
-Package marginnote Info: Margin note 12.36 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.38 is on absolute page 13 on input line
  1499.
 Package marginnote Info: right page because not two side mode on input line 149
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1499.
-Package marginnote Info: Margin note 12.37 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.39 is on absolute page 13 on input line
  1500.
 Package marginnote Info: right page because not two side mode on input line 150
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1500.
-Package marginnote Info: Margin note 12.38 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.40 is on absolute page 13 on input line
  1501.
 Package marginnote Info: right page because not two side mode on input line 150
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1501.
-Package marginnote Info: Margin note 12.39 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.41 is on absolute page 13 on input line
  1502.
 Package marginnote Info: right page because not two side mode on input line 150
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1502.
-Package marginnote Info: Margin note 12.40 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.42 is on absolute page 13 on input line
  1503.
 Package marginnote Info: right page because not two side mode on input line 150
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1503.
-Package marginnote Info: Margin note 12.41 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.43 is on absolute page 13 on input line
  1504.
 Package marginnote Info: right page because not two side mode on input line 150
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1504.
-Package marginnote Info: Margin note 12.42 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.44 is on absolute page 14 on input line
  1505.
 Package marginnote Info: right page because not two side mode on input line 150
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1505.
-Package marginnote Info: Margin note 12.43 is on absolute page 13 on input line
+Package marginnote Info: Margin note 12.45 is on absolute page 14 on input line
  1506.
 Package marginnote Info: right page because not two side mode on input line 150
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1506.
-Package marginnote Info: Margin note 12.44 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.46 is on absolute page 14 on input line
  1507.
 Package marginnote Info: right page because not two side mode on input line 150
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1507.
-Package marginnote Info: Margin note 12.45 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.47 is on absolute page 14 on input line
  1508.
 Package marginnote Info: right page because not two side mode on input line 150
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1508.
-Package marginnote Info: Margin note 12.46 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.48 is on absolute page 14 on input line
  1509.
 Package marginnote Info: right page because not two side mode on input line 150
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1509.
-Package marginnote Info: Margin note 12.47 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.49 is on absolute page 14 on input line
  1510.
 Package marginnote Info: right page because not two side mode on input line 151
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1510.
-Package marginnote Info: Margin note 12.48 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.50 is on absolute page 14 on input line
  1511.
 Package marginnote Info: right page because not two side mode on input line 151
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1511.
-Package marginnote Info: Margin note 12.49 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.51 is on absolute page 14 on input line
  1512.
 Package marginnote Info: right page because not two side mode on input line 151
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1512.
-Package marginnote Info: Margin note 12.50 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.52 is on absolute page 14 on input line
  1513.
 Package marginnote Info: right page because not two side mode on input line 151
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1513.
-Package marginnote Info: Margin note 12.51 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.53 is on absolute page 14 on input line
  1514.
 Package marginnote Info: right page because not two side mode on input line 151
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1514.
-Package marginnote Info: Margin note 12.52 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.54 is on absolute page 14 on input line
  1516.
 Package marginnote Info: right page because not two side mode on input line 151
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1516.
-Package marginnote Info: Margin note 12.53 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.55 is on absolute page 14 on input line
  1517.
 Package marginnote Info: right page because not two side mode on input line 151
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1517.
-Package marginnote Info: Margin note 12.54 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.56 is on absolute page 14 on input line
  1518.
 Package marginnote Info: right page because not two side mode on input line 151
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1518.
-Package marginnote Info: Margin note 12.55 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.57 is on absolute page 14 on input line
  1519.
 Package marginnote Info: right page because not two side mode on input line 151
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1519.
-Package marginnote Info: Margin note 12.56 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.58 is on absolute page 14 on input line
  1520.
 Package marginnote Info: right page because not two side mode on input line 152
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1520.
-Package marginnote Info: Margin note 12.57 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.59 is on absolute page 14 on input line
  1521.
 Package marginnote Info: right page because not two side mode on input line 152
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1521.
-Package marginnote Info: Margin note 12.58 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.60 is on absolute page 14 on input line
  1522.
 Package marginnote Info: right page because not two side mode on input line 152
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1522.
-Package marginnote Info: Margin note 12.59 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.61 is on absolute page 14 on input line
  1523.
 Package marginnote Info: right page because not two side mode on input line 152
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1523.
-Package marginnote Info: Margin note 12.60 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.62 is on absolute page 14 on input line
  1524.
 Package marginnote Info: right page because not two side mode on input line 152
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1524.
-Package marginnote Info: Margin note 12.61 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.63 is on absolute page 14 on input line
  1525.
 Package marginnote Info: right page because not two side mode on input line 152
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1525.
-Package marginnote Info: Margin note 12.62 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.64 is on absolute page 14 on input line
  1527.
 Package marginnote Info: right page because not two side mode on input line 152
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1527.
-Package marginnote Info: Margin note 12.63 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.65 is on absolute page 14 on input line
  1528.
 Package marginnote Info: right page because not two side mode on input line 152
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1528.
-Package marginnote Info: Margin note 12.64 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.66 is on absolute page 14 on input line
  1531.
 Package marginnote Info: right page because not two side mode on input line 153
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1531.
-Package marginnote Info: Margin note 12.65 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.67 is on absolute page 15 on input line
  1532.
 Package marginnote Info: right page because not two side mode on input line 153
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1532.
-Package marginnote Info: Margin note 12.66 is on absolute page 14 on input line
+Package marginnote Info: Margin note 12.68 is on absolute page 15 on input line
  1533.
 Package marginnote Info: right page because not two side mode on input line 153
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1533.
-Package marginnote Info: Margin note 12.67 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.69 is on absolute page 15 on input line
  1534.
 Package marginnote Info: right page because not two side mode on input line 153
 4.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1534.
-Package marginnote Info: Margin note 12.68 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.70 is on absolute page 15 on input line
  1535.
 Package marginnote Info: right page because not two side mode on input line 153
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1535.
-Package marginnote Info: Margin note 12.69 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.71 is on absolute page 15 on input line
  1536.
 Package marginnote Info: right page because not two side mode on input line 153
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1536.
-Package marginnote Info: Margin note 12.70 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.72 is on absolute page 15 on input line
  1537.
 Package marginnote Info: right page because not two side mode on input line 153
 7.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1537.
-Package marginnote Info: Margin note 12.71 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.73 is on absolute page 15 on input line
  1538.
 Package marginnote Info: right page because not two side mode on input line 153
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1538.
-Package marginnote Info: Margin note 12.72 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.74 is on absolute page 15 on input line
  1539.
 Package marginnote Info: right page because not two side mode on input line 153
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1539.
-Package marginnote Info: Margin note 12.73 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.75 is on absolute page 15 on input line
  1541.
 Package marginnote Info: right page because not two side mode on input line 154
 1.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1541.
-Package marginnote Info: Margin note 12.74 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.76 is on absolute page 15 on input line
  1542.
 Package marginnote Info: right page because not two side mode on input line 154
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1542.
-Package marginnote Info: Margin note 12.75 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.77 is on absolute page 15 on input line
  1543.
 Package marginnote Info: right page because not two side mode on input line 154
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1543.
-Package marginnote Info: Margin note 12.76 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.78 is on absolute page 15 on input line
  1545.
 Package marginnote Info: right page because not two side mode on input line 154
 5.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1545.
-Package marginnote Info: Margin note 12.77 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.79 is on absolute page 15 on input line
  1548.
 Package marginnote Info: right page because not two side mode on input line 154
 8.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1548.
-Package marginnote Info: Margin note 12.78 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.80 is on absolute page 15 on input line
  1549.
 Package marginnote Info: right page because not two side mode on input line 154
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1549.
-Package marginnote Info: Margin note 12.79 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.81 is on absolute page 15 on input line
  1550.
 Package marginnote Info: right page because not two side mode on input line 155
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1550.
-Package marginnote Info: Margin note 12.80 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.82 is on absolute page 15 on input line
  1553.
 Package marginnote Info: right page because not two side mode on input line 155
 3.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1553.
-Package marginnote Info: Margin note 12.81 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.83 is on absolute page 15 on input line
  1556.
 Package marginnote Info: right page because not two side mode on input line 155
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1556.
-Package marginnote Info: Margin note 12.82 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.84 is on absolute page 15 on input line
  1559.
 Package marginnote Info: right page because not two side mode on input line 155
 9.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1559.
-Package marginnote Info: Margin note 12.83 is on absolute page 15 on input line
+Package marginnote Info: Margin note 12.85 is on absolute page 15 on input line
  1562.
 Package marginnote Info: right page because not two side mode on input line 156
 2.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1562.
-Package marginnote Info: Margin note 12.84 is on absolute page 15 on input line
- 1565.
 Package marginnote Info: right page because not two side mode on input line 156
 5.
-Package marginnote Info: xpos seems to be 100.01144pt on input line 1565.
-Package marginnote Info: Margin note 12.85 is on absolute page 15 on input line
- 1568.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 1565.
 Package marginnote Info: right page because not two side mode on input line 156
 8.
-Package marginnote Info: xpos seems to be 100.01144pt on input line 1568.
- [12] [13] [14]
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 1568.
+[12] [13] [14]
 Package marginnote Info: Margin note 15.1 is on absolute page 15 on input line 
 1577.
 Package marginnote Info: right page because not two side mode on input line 157
@@ -1310,10 +1311,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1667.
  ) 
 Here is how much of TeX's memory you used:
- 9403 strings out of 481242
- 146170 string characters out of 5918005
- 508456 words of memory out of 5000000
- 24173 multiletter control sequences out of 15000+600000
+ 9405 strings out of 481242
+ 146196 string characters out of 5918005
+ 509679 words of memory out of 5000000
+ 24175 multiletter control sequences out of 15000+600000
  548557 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,9n,42p,516b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1334,7 +1335,7 @@ mf-dist/fonts/type1/public/cm-super/sfcc0900.pfb></usr/local/texlive/2019/texmf
 -dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2019/texmf-d
 ist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2019/texmf-dis
 t/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on bulbuliaCV.pdf (17 pages, 298905 bytes).
+Output written on bulbuliaCV.pdf (17 pages, 299030 bytes).
 PDF statistics:
  581 PDF objects out of 1000 (max. 8388607)
  540 compressed objects within 6 object streams
