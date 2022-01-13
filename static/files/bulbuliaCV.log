@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  14 JAN 2022 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  14 JAN 2022 10:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,7 +898,7 @@ Package marginnote Info: Margin note 13.19 is on absolute page 13 on input line
 Package marginnote Info: right page because not two side mode on input line 153
 6.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1536.
-Package marginnote Info: Margin note 13.20 is on absolute page 13 on input line
+Package marginnote Info: Margin note 13.20 is on absolute page 14 on input line
  1537.
 Package marginnote Info: right page because not two side mode on input line 153
 7.
@@ -1013,7 +1013,7 @@ Package marginnote Info: Margin note 13.42 is on absolute page 14 on input line
 Package marginnote Info: right page because not two side mode on input line 156
 0.
 Package marginnote Info: xpos seems to be 100.01144pt on input line 1560.
-Package marginnote Info: Margin note 13.43 is on absolute page 14 on input line
+Package marginnote Info: Margin note 13.43 is on absolute page 15 on input line
  1561.
 Package marginnote Info: right page because not two side mode on input line 156
 1.
@@ -1355,7 +1355,7 @@ mf-dist/fonts/type1/public/cm-super/sfcc0900.pfb></usr/local/texlive/2019/texmf
 -dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2019/texmf-d
 ist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2019/texmf-dis
 t/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on bulbuliaCV.pdf (17 pages, 300947 bytes).
+Output written on bulbuliaCV.pdf (17 pages, 300946 bytes).
 PDF statistics:
  588 PDF objects out of 1000 (max. 8388607)
  547 compressed objects within 6 object streams
