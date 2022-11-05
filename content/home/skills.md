@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Bayesian Inference"
+  name = "Causal Inference"
   description = ""  
   
 [[feature]]

@@ -14,7 +14,7 @@ organizations:
   url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include evolution, religion, cooperation, wellbeing, longitudinal methods
+bio: My research interests include causal inference using panel data, evolution, religion, cooperation, well-being.
 
 # Interests to show in About widget
 Questions:
@@ -76,4 +76,5 @@ user_groups:
 - Visitors
 ---
 
-I am a professor of Psychology at Victoria University in Wellington, New Zealand. I am interested in the evolutionary and longitudinal study of religion, cooperation, and psychological health. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
+I am a professor of Psychology at Victoria University in Wellington, New Zealand. I am interested in the longitudinal study of religion, virtue, and psychological well-being. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
+
