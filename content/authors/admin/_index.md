@@ -78,3 +78,5 @@ user_groups:
 
 I am a professor of Psychology at Victoria University in Wellington, New Zealand. I am interested in the longitudinal study of religion, virtue, and psychological well-being. I am one of four senior managers for the New Zealand Attitudes and Values Study. 
 
+My CV can be found here: [CV](https://josephbulbulia.netlify.app/files/bulbuliaCV.pdf)
+
